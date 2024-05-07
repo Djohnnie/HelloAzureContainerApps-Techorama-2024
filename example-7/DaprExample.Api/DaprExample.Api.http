@@ -1,0 +1,6 @@
+@SimpleExample.Api_HostAddress = http://localhost:5113
+
+GET {{SimpleExample.Api_HostAddress}}/status/
+Accept: application/json
+
+###
